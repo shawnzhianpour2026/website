@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Shawline Truck tow truck illustration">
+  <!-- ground shadow -->
+  <ellipse cx="320" cy="272" rx="300" ry="12" fill="#000" opacity=".25"/>
+
+  <!-- boom / wrecker arm -->
+  <path d="M140 150 L60 70 L40 78 L118 160 Z" fill="#1a1a1a"/>
+  <rect x="34" y="66" width="34" height="18" rx="4" fill="#d71920"/>
+  <line x1="48" y1="84" x2="48" y2="190" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M40 188 h16 v8 a8 8 0 0 1 -16 0 z" fill="#1a1a1a"/>
+  <path d="M48 204 q-10 10 0 18 q10 4 12 -6" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- bed -->
+  <rect x="30" y="190" width="380" height="28" rx="4" fill="#1a1a1a"/>
+  <rect x="100" y="150" width="310" height="44" rx="4" fill="#d71920"/>
+  <rect x="100" y="150" width="310" height="8" fill="#a50f15"/>
+  <rect x="116" y="166" width="120" height="16" rx="3" fill="#fff" opacity=".95"/>
+  <text x="176" y="179" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111">24/7 TOWING</text>
+  <!-- light bar -->
+  <rect x="460" y="62" width="70" height="10" rx="4" fill="#1a1a1a"/>
+  <rect x="464" y="54" width="28" height="10" rx="4" fill="#ffb400"/>
+  <rect x="498" y="54" width="28" height="10" rx="4" fill="#d71920"/>
+
+  <!-- cab -->
+  <path d="M410 218 V96 a24 24 0 0 1 24 -24 h86 a20 20 0 0 1 18 12 l40 82 h22 a14 14 0 0 1 14 14 v38 z" fill="#d71920"/>
+  <path d="M440 92 h74 a8 8 0 0 1 7 5 l32 66 h-113 z" fill="#e8eef3"/>
+  <path d="M448 100 h60 l26 56 h-86 z" fill="#9fb5c7" opacity=".55"/>
+  <rect x="420" y="174" width="80" height="6" rx="3" fill="#a50f15"/>
+  <rect x="582" y="186" width="30" height="12" rx="3" fill="#fff8d6"/>
+  <rect x="410" y="204" width="214" height="16" rx="4" fill="#1a1a1a"/>
+  <rect x="600" y="204" width="28" height="16" rx="4" fill="#cfd4d8"/>
+  <text x="470" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" text-anchor="middle" fill="#fff">SHAWLINE</text>
+
+  <!-- wheels -->
+  <g>
+    <circle cx="150" cy="232" r="36" fill="#111"/>
+    <circle cx="150" cy="232" r="18" fill="#cfd4d8"/>
+    <circle cx="150" cy="232" r="6" fill="#111"/>
+    <circle cx="250" cy="232" r="36" fill="#111"/>
+    <circle cx="250" cy="232" r="18" fill="#cfd4d8"/>
+    <circle cx="250" cy="232" r="6" fill="#111"/>
+    <circle cx="530" cy="232" r="36" fill="#111"/>
+    <circle cx="530" cy="232" r="18" fill="#cfd4d8"/>
+    <circle cx="530" cy="232" r="6" fill="#111"/>
+  </g>
+</svg>
